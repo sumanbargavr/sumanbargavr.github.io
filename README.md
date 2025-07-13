@@ -16,6 +16,7 @@
 
 ## Certification
 
+- Hands-on approach to AI for real-world applications from IIT Kharagpur AI4ICPS (2024)
 - Master Diploma in Product Design and Analysis from CADD Center (2019)
 
 ## Journal Articles Published
