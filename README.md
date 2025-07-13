@@ -1,5 +1,4 @@
 # Dr. Suman Bargav R
-### CAE analyst
 
 ## Work Experience
 
