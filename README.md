@@ -1,12 +1,12 @@
 # Dr. Suman Bargav R
 
-## Work Experience
+## Work Experience (20 years)
 
-- TATA Consultancy Services
-- General Motors Technical Centre
-- Quest Global
-- Dynamatic Technologies Limited
-- Kinematic Transmissions Private Limited
+- TATA Consultancy Services (current)
+- General Motors Technical Centre (Oct 2007 to Oct 2019)
+- Quest Global (Oct 2006 to Oct 2007)
+- Dynamatic Technologies Limited (Apr 2005 to Oct 2006)
+- Kinematic Transmissions Private Limited (Aug 2004 to Apr 2005)
 
 ## Education
 
