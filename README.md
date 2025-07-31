@@ -22,6 +22,8 @@
 ## Journal Articles Published
 
 - Methodology for the Design of a Lighter Foam-Filled Tube Structure for Improved Crashworthiness Parameters Subjected to Quasi-Static Axial Compression. *Journal of Engineering Science and Technology* (2017).
+- Fabrication of Fixture for Concentric Foam Filling of Tubes. *International Journal of Research in Engineering and Technology* (2016).
+- Comparative Study of the Energy Absorption Capacities of XPS and XPE Foam Filled Aluminium Square Tubes under Quasi-Static Axial Compression. *International Journal of Engineering Research* (2015).
 
 ## Social Links
 
@@ -38,5 +40,3 @@ Connect with me across platforms:
 - [Reddit](https://www.reddit.com/user/sumanbargavr)
 - [Twitter](https://www.x.com/sumanbargavr)
 - [YouTube](https://www.youtube.com/@sumanbargavr)
-- Fabrication of Fixture for Concentric Foam Filling of Tubes. *International Journal of Research in Engineering and Technology* (2016).
-- Comparative Study of the Energy Absorption Capacities of XPS and XPE Foam Filled Aluminium Square Tubes under Quasi-Static Axial Compression. *International Journal of Engineering Research* (2015).
