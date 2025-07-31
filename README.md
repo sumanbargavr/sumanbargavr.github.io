@@ -31,6 +31,7 @@ Connect with me across platforms:
 
 - [Facebook](https://www.facebook.com/sumanbargavr)
 - [Github](https://www.github.com/sumanbargavr)
+- [Hackster](https://www.hackster.io/sumanbargavr)
 - [Hugging Face](https://huggingface.co/sumanbargavr)
 - [Instagram](https://www.instagram.com/sumanbargavr)
 - [Kaggle](https://www.kaggle.com/sumanbargavr)
