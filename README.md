@@ -29,6 +29,7 @@
 
 Connect with me across platforms:
 
+- [Arduino](https://projecthub.arduino.cc/sumanbargavr)
 - [Facebook](https://www.facebook.com/sumanbargavr)
 - [Github](https://www.github.com/sumanbargavr)
 - [Hackster](https://www.hackster.io/sumanbargavr)
