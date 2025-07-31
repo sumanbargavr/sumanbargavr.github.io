@@ -38,5 +38,6 @@ Connect with me across platforms:
 - [Medium](https://www.medium.com/sumanbargavr)
 - [Pinterest](https://in.pinterest.com/sumanbargavr)
 - [Reddit](https://www.reddit.com/user/sumanbargavr)
+- [Tumblr](https://www.tumblr.com/sumanbargavr)
 - [Twitter](https://www.x.com/sumanbargavr)
 - [YouTube](https://www.youtube.com/@sumanbargavr)
