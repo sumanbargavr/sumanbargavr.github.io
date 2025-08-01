@@ -37,7 +37,7 @@ Connect with me across platforms:
 - [Instagram](https://www.instagram.com/sumanbargavr)
 - [Kaggle](https://www.kaggle.com/sumanbargavr)
 - [LinkedIn](https://www.linkedin.com/in/sumanbargavr)
-- [Medium](https://www.medium.com/sumanbargavr)
+- [Medium](https://medium.com/@sumanbargavr)
 - [Pinterest](https://in.pinterest.com/sumanbargavr)
 - [Reddit](https://www.reddit.com/user/sumanbargavr)
 - [Tumblr](https://www.tumblr.com/sumanbargavr)
