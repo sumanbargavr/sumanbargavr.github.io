@@ -1,4 +1,5 @@
 # Dr. Suman Bargav R
+www.sumanbargavr.phd
 
 ## Work Experience (20 years)
 
@@ -16,8 +17,13 @@
 
 ## Certification
 
-- Hands-on approach to AI for real-world applications from IIT Kharagpur AI4ICPS (2024)
-- Master Diploma in Product Design and Analysis from CADD Center (2019)
+- Hands-on approach to AI for real-world applications from IIT Kharagpur AI4ICPS I Hub Foundation (2024)
+- Hands-on approach to Advanced AI for real-world applications (HAAI) ++ from IIT Kharagpur AI4ICPS I Hub Foundation (2025)
+
+## Patents
+
+- ENGINE CRANKSHAFT ASSEMBLIES WITH GEAR INTERFACES US-20250297639-A1 · Issued Sep 25, 2025
+- CRANKSHAFT NOSE END DESIGN US-20250146534-A1 · Issued May 8, 2025
 
 ## Journal Articles Published
 
@@ -25,21 +31,4 @@
 - Fabrication of Fixture for Concentric Foam Filling of Tubes. *International Journal of Research in Engineering and Technology* (2016).
 - Comparative Study of the Energy Absorption Capacities of XPS and XPE Foam Filled Aluminium Square Tubes under Quasi-Static Axial Compression. *International Journal of Engineering Research* (2015).
 
-## Social Links
 
-Connect with me across platforms:
-
-- [Arduino](https://projecthub.arduino.cc/sumanbargavr)
-- [Facebook](https://www.facebook.com/sumanbargavr)
-- [Github](https://www.github.com/sumanbargavr)
-- [Hackster](https://www.hackster.io/sumanbargavr)
-- [Hugging Face](https://huggingface.co/sumanbargavr)
-- [Instagram](https://www.instagram.com/sumanbargavr)
-- [Kaggle](https://www.kaggle.com/sumanbargavr)
-- [LinkedIn](https://www.linkedin.com/in/sumanbargavr)
-- [Medium](https://medium.com/@sumanbargavr)
-- [Pinterest](https://in.pinterest.com/sumanbargavr)
-- [Reddit](https://www.reddit.com/user/sumanbargavr)
-- [Tumblr](https://www.tumblr.com/sumanbargavr)
-- [Twitter](https://www.x.com/sumanbargavr)
-- [YouTube](https://www.youtube.com/@sumanbargavr)
