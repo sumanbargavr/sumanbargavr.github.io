@@ -1,6 +1,3 @@
-# Dr. Suman Bargav R
-www.sumanbargavr.phd
-
 ## Work Experience (20 years)
 
 - TATA Consultancy Services (current)
